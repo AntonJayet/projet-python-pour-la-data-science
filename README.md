@@ -2,7 +2,7 @@ Ce projet vise à analyser les résultats des élections législatives français
 Les résultats aux élections législatives françaises de 2024 révèlent des différences importantes de vote selon les territoires. La densité de population apparaît comme un facteur fortement corrélé aux comportements électoraux.
 Les zones les plus densément peuplées, en particulier les grandes agglomérations, se caractérisent par des choix électoraux orientés vers des formations centristes, écologistes ou de gauche. À l’inverse, les territoires faiblement peuplés affichent davantage de suffrages en faveur du Rn. 
 
-L’objectif est donc d’étudier la relation entre densité de population et résultats aux éléctions législatives, notamment à travers des graphiques.
+L’objectif est donc d’évaluer la relation entre densité de population et le vote, notamment à travers des graphiques.
 Pour lire le projet, il faut lancer le fichier main.ipynb.
 
 Les données utilisées proviennent des sources suivantes :
